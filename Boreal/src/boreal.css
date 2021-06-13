@@ -334,7 +334,6 @@
     border-radius: var(--panel-border-radius);
 }
 .member-3-YXUe {  /*Server members settings*/
-    background-color: var(--panel-boxes);
     border: var(--panel-border);
     border-radius: var(--panel-border-radius);
 }
@@ -1883,7 +1882,7 @@
 
 .homeIcon-FuNwkv { /*Changes the home icon*/
     color: transparent !important;
-    background: url(https://i.imgur.com/uoMNKqh.gif) center no-repeat;
+    background: url(https://pbs.twimg.com/media/EpLH3OLU0AEsH22?format=jpg&name=large) center no-repeat;
     background-size: 70px;
     z-index: 2;
     width: 56px;
